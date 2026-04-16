@@ -24,8 +24,7 @@ Flutter · SQLite · Riverpod · ML Kit
 
 A focus app that doesn’t let you override your own rules.
 
-- Blocks apps at the system level  
-- Unlocks require another person  
+- Blocks apps at the system level
 - No "just this once" button  
 
 Kotlin · Jetpack Compose
