@@ -11,7 +11,7 @@ Building https://caffeinelabs.in
 ### 📱 Labelyze · Android  
 [Website](https://labelyze.in) · [GitHub](https://github.com/samyyy2311/Labelyze_App)
 
-Scan any packaged product and check its ingredients against **EU, FDA, WHO, Health Canada, and UK FSA** standards.
+Scan any packaged product and check its ingredients against **EU, FDA** standards.
 
 Works fully offline. No accounts. No cloud.
 
