@@ -9,12 +9,16 @@ Building https://caffeinelabs.in
 ## Products
 
 ### 📱 Labelyze · Android  
-[Website](https://labelyze.in) · [GitHub](https://github.com/samyyy2311/Labelyze.in) · [APK](https://github.com/samyyy2311/Labelyze.in/releases/download/v1.0.1/app-release.apk)
+
+[Website](https://labelyze.in) · 
+[GitHub](https://github.com/samyyy2311/Labelyze.in) · 
+[APK](https://github.com/samyyy2311/Labelyze.in/releases/download/v1.0.1/app-release.apk)
+
 Scan any packaged product and check its ingredients against **EU, FDA** standards.
 
-Works fully offline. No accounts. No cloud.
+**Works fully offline. No accounts. No cloud.**
 
-Flutter · SQLite · Riverpod · ML Kit
+*Flutter · SQLite · Riverpod · ML Kit*
 
 ---
 
