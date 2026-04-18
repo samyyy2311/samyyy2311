@@ -9,7 +9,7 @@ Building https://caffeinelabs.in
 ## Products
 
 ### 📱 Labelyze · Android  
-[Website](https://labelyze.in) · [GitHub](https://github.com/samyyy2311/Labelyze_App)
+[Website](https://labelyze.in) · [GitHub](https://github.com/samyyy2311/Labelyze.in)
 
 Scan any packaged product and check its ingredients against **EU, FDA** standards.
 
