@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="banner.svg" alt="Samarth Lad" width="100%"/>
-</div>
 
-<br>
+# Samarth Lad · samyyy2311
 
-<div align="center">
+*Building products that do what they're supposed to.*
 
 [![Website](https://img.shields.io/badge/caffeinelabs.in-000000?style=flat-square&logo=safari&logoColor=white)](https://caffeinelabs.in)
-[![Labelyze](https://img.shields.io/badge/labelyze.in-000000?style=flat-square&logo=android&logoColor=white)](https://labelyze.in)
 
 </div>
 
@@ -19,13 +16,9 @@
 
 **Fully offline · No accounts · No cloud**
 
-<div align="left">
-
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://labelyze.in)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/Labelyze.in)
 [![Play Store](https://img.shields.io/badge/Play_Store-000000?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=in.caffeinelabs.labelyze)
-
-</div>
 
 ![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=white)
