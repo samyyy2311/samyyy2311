@@ -1,7 +1,6 @@
 <div align="center">
 
 # Samarth Lad · samyyy2311
-
 *Building products that do what they're supposed to.*
 
 [![Website](https://img.shields.io/badge/caffeinelabs.in-000000?style=flat-square&logo=safari&logoColor=white)](https://caffeinelabs.in)
@@ -11,7 +10,6 @@
 ---
 
 ### 📱 Labelyze
-
 > Scan any packaged product. Check ingredients against EU & FDA standards instantly.
 
 **Fully offline · No accounts · No cloud**
@@ -24,6 +22,22 @@
 ![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-1a1a1a?style=flat-square&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML_Kit-1a1a1a?style=flat-square&logo=google&logoColor=white)
+
+---
+
+### 🎓 Apex Project - Retail Inventory AI Pipeline
+> BITS Pilani BS Program · Trimester 3 · P4
+
+End-to-end data cleaning pipeline for a retail transactions dataset.
+12,575 rows cleaned to 11,362 · zero nulls · 3 analysis charts produced.
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/Apex_Project)
+[![Colab](https://img.shields.io/badge/Open_in_Colab-000000?style=flat-square&logo=googlecolab&logoColor=F9AB00)](https://colab.research.google.com/drive/1v4uQ6rEmCs6N6Cw4rj3WC9k-OlfJHCnI)
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Seaborn](https://img.shields.io/badge/Seaborn-1a1a1a?style=flat-square&logoColor=white)
 
 ---
 
