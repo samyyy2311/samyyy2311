@@ -53,12 +53,9 @@ End-to-end data cleaning pipeline for a retail transactions dataset.
 
 ![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![Dart](https://img.shields.io/badge/Dart-1a1a1a?style=flat-square&logo=dart&logoColor=00B4AB)
-![Kotlin](https://img.shields.io/badge/Kotlin-1a1a1a?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=009688)
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1a1a1a?style=flat-square&logo=jetpackcompose&logoColor=4285F4)
 
 ---
 
