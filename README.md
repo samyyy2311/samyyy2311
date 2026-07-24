@@ -3,7 +3,7 @@
 # Samarth Lad · samyyy2311
 *Building products that do what they're supposed to.*
 
-[![Website](https://img.shields.io/badge/caffeinelabs.in-000000?style=flat-square&logo=safari&logoColor=white)](https://caffeinelabs.in)
+[![Website](https://img.shields.io/badge/caffeinelabs.in-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://caffeinelabs.in)
 
 </div>
 
@@ -14,14 +14,26 @@
 
 **Fully offline · No accounts · No cloud**
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://labelyze.in)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://labelyze.in)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/Labelyze.in)
 [![Play Store](https://img.shields.io/badge/Play_Store-000000?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=in.caffeinelabs.labelyze)
 
 ![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-1a1a1a?style=flat-square&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML_Kit-1a1a1a?style=flat-square&logo=google&logoColor=white)
+
+---
+
+### 🏭 Marginn
+> A complete manufacturing ERP built for Indian fabrication shops.
+
+**Live quoting & costing · Multi-material BOMs · Native 3D CAD viewer**
+
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://marginn.co)
+[![Client Portal](https://img.shields.io/badge/Client_Portal-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://client.marginn.co)
+
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=646CFF)
 
 ---
 
@@ -46,6 +58,7 @@ End-to-end data cleaning pipeline for a retail transactions dataset.
 [![NaviQ-Air](https://img.shields.io/badge/NaviQ--Air-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/NaviQ-Air)
 [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering_Capstone-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/Feature_Engineering_Capstone)
 [![delulu.exe](https://img.shields.io/badge/delulu.exe-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/delulu.exe)
+[![The Protest Record](https://img.shields.io/badge/The_Protest_Record-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/spydersyrup/theprotestrecord)
 
 ---
 
@@ -53,12 +66,12 @@ End-to-end data cleaning pipeline for a retail transactions dataset.
 
 ![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![Dart](https://img.shields.io/badge/Dart-1a1a1a?style=flat-square&logo=dart&logoColor=00B4AB)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
 ![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
 <div align="center">
-  <sub>🟢 currently building <strong>Labelyze</strong></sub>
+  <sub>🟢 currently building <strong>Labelyze</strong> & <strong>Marginn</strong></sub>
 </div>
