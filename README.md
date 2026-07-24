@@ -27,7 +27,7 @@
 ### 🏭 Marginn
 > A complete manufacturing ERP built for Indian fabrication shops.
 
-**Live quoting & costing · Multi-material BOMs · Native 3D CAD viewer**
+**Live quoting & costing · Multi-material BOMs**
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://marginn.co)
 [![Client Portal](https://img.shields.io/badge/Client_Portal-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://client.marginn.co)
