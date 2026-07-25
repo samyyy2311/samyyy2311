@@ -9,8 +9,8 @@
 
 ---
 
-### 📱 Labelyze
-> Scan any packaged product. Check ingredients against EU & FDA standards instantly.
+### ![](https://img.shields.io/badge/-000000?style=flat-square&logo=google-play&logoColor=white) Labelyze
+> Scan any packaged product. Check ingredients against FSSAI, EU & FDA standards instantly.
 
 **Fully offline · No accounts · No cloud**
 
@@ -24,24 +24,21 @@
 
 ---
 
-### 🏭 Marginn
-> A complete manufacturing ERP built for Indian fabrication shops.
-
-**Live quoting & costing · Multi-material BOMs**
+### Marginn
+> Job costing and quoting tool for Indian fabrication shops. Positioning is currently being reworked.
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://marginn.co)
-[![Client Portal](https://img.shields.io/badge/Client_Portal-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://client.marginn.co)
 
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=646CFF)
 
 ---
 
-### 🎓 Apex Project - Retail Inventory AI Pipeline
+### ![](https://img.shields.io/badge/-000000?style=flat-square&logo=googlecolab&logoColor=F9AB00) Apex Project - Retail Inventory AI Pipeline
 > BITS Pilani BS Program · Trimester 3 · P4
 
 End-to-end data cleaning pipeline for a retail transactions dataset.
-12,575 rows cleaned to 11,362 · zero nulls · 3 analysis charts produced.
+12,575 rows cleaned to 11,362, zero nulls, 3 analysis charts produced.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/Apex_Project)
 [![Colab](https://img.shields.io/badge/Open_in_Colab-000000?style=flat-square&logo=googlecolab&logoColor=F9AB00)](https://colab.research.google.com/drive/1v4uQ6rEmCs6N6Cw4rj3WC9k-OlfJHCnI)
@@ -53,7 +50,7 @@ End-to-end data cleaning pipeline for a retail transactions dataset.
 
 ---
 
-### 🗂 Other Projects
+### ![](https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white) Other Projects
 
 [![NaviQ-Air](https://img.shields.io/badge/NaviQ--Air-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/NaviQ-Air)
 [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering_Capstone-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/samyyy2311/Feature_Engineering_Capstone)
@@ -62,7 +59,7 @@ End-to-end data cleaning pipeline for a retail transactions dataset.
 
 ---
 
-### 🛠 Stack
+### Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![Dart](https://img.shields.io/badge/Dart-1a1a1a?style=flat-square&logo=dart&logoColor=00B4AB)
@@ -73,5 +70,5 @@ End-to-end data cleaning pipeline for a retail transactions dataset.
 ---
 
 <div align="center">
-  <sub>🟢 currently building <strong>Labelyze</strong> & <strong>Marginn</strong></sub>
+  <sub>currently building <strong>Labelyze</strong> and <strong>Marginn</strong></sub>
 </div>
