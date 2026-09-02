@@ -39,18 +39,6 @@
 
 ---
 
-### Marginn
-
-> Job costing and quoting platform for Indian fabrication shops.
-
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square\&logo=googlechrome\&logoColor=white)](https://marginn.co)
-
-![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square\&logo=typescript\&logoColor=3178C6)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square\&logo=supabase\&logoColor=3ECF8E)
-
----
-
 ### BITS Pilani · BS Data Science & AI
 
 #### Supervised Learning · Employee Attrition Prediction
